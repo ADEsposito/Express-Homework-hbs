@@ -1,0 +1,30 @@
+{
+  "name": "express-homework-hbs",
+  "version": "1.0.0",
+  "description": "Homework with handlebars",
+  "main": "./server/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADEsposito/Express-Homework-hbs.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ADEsposito/Express-Homework-hbs/issues"
+  },
+  "homepage": "https://github.com/ADEsposito/Express-Homework-hbs#readme",
+  "dependencies": {
+    "body-parser": "^1.17.0",
+    "express": "^4.15.1",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-watch": "^4.3.11"
+  }
+}

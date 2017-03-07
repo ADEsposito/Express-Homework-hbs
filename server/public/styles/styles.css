@@ -1,0 +1,18 @@
+body {
+  background-color: thistle;
+}
+#login {
+  margin-top: 10%;
+  margin-left: 30%;
+  display: inline-block;
+  text-align: center;
+}
+#login form {
+  width: 100%;
+  background-color: mediumslateblue;
+  color: thistle;
+}
+#login button {
+  background-color: mediumslateblue;
+  color: thistle;
+}
